@@ -89,7 +89,6 @@ This project showcases fundamental programming concepts such as **parallel lists
 * Student at UPAEP 🦅
 * GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
 
-3.  **Navigation:**
     Use the number keys to select menu options (1-6).
 
 ## ⚠️ Notes
