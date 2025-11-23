@@ -44,6 +44,11 @@ Este proyecto demuestra el uso de estructuras fundamentales de programación com
 * El sistema utiliza almacenamiento en memoria (RAM) mediante listas. Los datos se reinician al cerrar el programa a menos que generes el reporte.
 * Para usar la función de **Búsqueda (Opción 2)**, primero debes generar el archivo de reporte en la **Opción 3**.
 
+### 👤 Author
+**Jose Angel Márquez Ramírez**
+* Estudiante en UPAEP 🦅
+* GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
+
 ---
 
 ## Description
@@ -79,6 +84,10 @@ This project showcases fundamental programming concepts such as **parallel lists
     ```bash
     python "PROYECTO HOTEL.py"
     ```
+### 👤 Author
+**Jose Angel Márquez Ramírez**
+* Student at UPAEP 🦅
+* GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
 
 3.  **Navigation:**
     Use the number keys to select menu options (1-6).
